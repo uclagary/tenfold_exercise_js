@@ -1,0 +1,24 @@
+{
+  "name": "tenfold_exercise_js",
+  "version": "1.0.0",
+  "description": "Automation for Tenfold's Exercise",
+  "main": "nightwatch.conf.js",
+  "dependencies": {
+    "async": "^2.5.0",
+    "nightwatch": "^0.9.16"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uclagary/tenfold_exercise_js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uclagary/tenfold_exercise_js/issues"
+  },
+  "homepage": "https://github.com/uclagary/tenfold_exercise_js#readme"
+}
